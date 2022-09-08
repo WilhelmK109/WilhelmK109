@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with cloning repository to my local machine.
 - 💬 Ask me about my interest in software development.
 - 📫 How to reach me: email me at kamulungaw@gmail.com.
+Practice always make things perfect.
