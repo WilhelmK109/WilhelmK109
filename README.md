@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hi there I'm Wilhelm Kamulunga👋
 
-<!--
-**WilhelmK109/WilhelmK109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ A Front-End Developer seeking new opportunities ✨
 
-Here are some ideas to get you started:
+Contact: kamulungaw@gmail.com
 
-- 🔭 I’m currently working on my Git & GitHub: Boost your knowledge.
-- 🌱 I’m currently learning Git & GitHub.
-- 👯 I’m looking to collaborate on software development projects...
-- 🤔 I’m looking for help with cloning repository to my local machine.
-- 💬 Ask me about my interest in software development.
-- 📫 How to reach me: email me at kamulungaw@gmail.com.
-Practice always make things perfect.
+const wilhelmkamulunga = {
+  lookingFor: "Front-end developer position",
+  pronouns: ["he", "him"],
+  code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap],
+  currentlyLearning: [React, Redux, and Ruby on Rails],
+  funFacts: ['I have 1+ years of remote work experience with devs 
+  from all over the world']
+}
