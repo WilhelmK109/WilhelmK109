@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wilhelm Kamulunga</h1>
-<h3 align="center">A Front-End Developer from Namibia</h3>
+<h3 align="center">A Full-Stack Developer from Namibia</h3>
 
 - 👨‍💻 See my past projects at [https://WilhelmK109.github.io/my-portfolio-website/](https://WilhelmK109.github.io/my-portfolio-website/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
-
-- 💬 Currently learning **React, Node, Express, and Ruby on rails**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node, and Ruby on rails**
 
 - 📫 How to reach me **kamulungaw@gmail.com**
 
