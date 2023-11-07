@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wilhelm Kamulunga</h1>
 <h3 align="center">A Full-Stack Developer from Namibia</h3>
 
-- 👨‍💻 See my past projects at [https://WilhelmK109.github.io/my-portfolio-website/](https://WilhelmK109.github.io/my-portfolio-website/)
+- 👨‍💻 See my past projects at [https://WilhelmK109.github.io/portfolio/](https://WilhelmK109.github.io/portfolio/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node, and Ruby on rails**
 
